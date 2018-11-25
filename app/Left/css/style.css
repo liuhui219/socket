@@ -1,0 +1,14 @@
+.Left_main {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #ececec;
+    overflow-x: hidden;
+}
+
+.Left_main li {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #f7f7f7;
+}
